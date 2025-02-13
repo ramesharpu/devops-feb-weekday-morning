@@ -7,4 +7,8 @@ public class HelloWorld {
 
 	}
 
+	//side branch demo
+	public void m1() {
+		System.out.println("from b1 branch");
+	}
 }
